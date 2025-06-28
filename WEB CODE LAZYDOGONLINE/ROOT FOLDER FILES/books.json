@@ -1,0 +1,19 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "If Only She Could Talk: The Tale of Tilly",
+      "subtitle": "A Musical Story",
+      "description": "A touching story about Tilly, a beautiful rescue cat, and the special bond between pets and their families.",
+      "price": "$12.99",
+      "image": "/images/tilly-cover.png",
+      "amazonUrl": "https://www.amazon.com/dp/B0FD9CTQSH",
+      "youtubeUrl": "https://youtube.com/watch?v=HPPO3s6uxT4",
+      "category": "Story Book",
+      "ages": "4-8",
+      "hasColoring": true,
+      "hasSong": true,
+      "featured": true
+    }
+  ]
+}
