@@ -14,7 +14,7 @@ export interface Book {
   featured: boolean
 }
 
-// All 7 books with correct Amazon URLs and YouTube links
+// All 8 books with correct Amazon URLs and YouTube links
 export const books: Book[] = [
   {
     id: 1,
@@ -126,6 +126,22 @@ export const books: Book[] = [
     hasColoring: false,
     hasSong: true,
     featured: false,
+  },
+  {
+    id: 8,
+    title: "Christmas Legends Around the Globe",
+    subtitle: "Rhyming Folklore and Festive Traditions from Every Land",
+    description:
+      "Journey around the world through enchanting Christmas folklore and traditions! This beautifully illustrated rhyming story explores how different cultures celebrate the magic of the holiday season, from Santa's reindeer to the Yule goat and beyond.",
+    price: "$12.99",
+    image: "/images/christmas-legends-cover.png",
+    amazonUrl: "https://www.amazon.com/dp/B0FPX6CX1J?tag=lazydogonline-20",
+    youtubeUrl: "https://youtube.com/watch?v=",
+    category: "Story Book",
+    ages: "4-8",
+    hasColoring: false,
+    hasSong: true,
+    featured: true,
   },
 ]
 
