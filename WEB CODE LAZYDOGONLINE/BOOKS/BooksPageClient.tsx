@@ -129,7 +129,7 @@ const books = [
     price: "$12.99",
     image: "/images/christmas-legends-cover.png",
     amazonUrl: "https://www.amazon.com/dp/B0FPX6CX1J?tag=lazydogonline-20",
-    youtubeUrl: "https://youtube.com/watch?v=",
+    youtubeUrl: "https://youtu.be/uJb8M3ufQuk",
     category: "Story Book",
     ages: "4-8",
     hasColoring: false,
